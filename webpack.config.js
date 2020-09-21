@@ -41,7 +41,7 @@ module.exports = {
   },
   devtool: isDevelopment ? 'source-map' : false,
   devServer: {
-    port: 4200,
+    port: 4300,
     watchContentBase: true,
     inline: true,
     hot: isDevelopment
